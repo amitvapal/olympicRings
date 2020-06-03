@@ -14,6 +14,6 @@ Wing Editor 7.1.0.2
 
 ## Running the Program
 1. Once the program is executed, user will see a 2020 Tokyo Olympic Rings Banner. 
-
+![](https://github.com/amitvapal/olympicRings/blob/master/olympicRings_2020.png)
 
 
